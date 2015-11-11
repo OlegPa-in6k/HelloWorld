@@ -27,17 +27,7 @@
             </user-service>
         </authentication-provider>
     </authentication-manager>
-  <!--  <http auto-config="true">
-        <intercept-url pattern="/admin**" access="hasRole('ROLE_USER')" />
-    </http>
 
-    <authentication-manager>
-        <authentication-provider>
-            <user-service>
-                <user name="oleg" password="oleg" authorities="ROLE_USER" />
-            </user-service>
-        </authentication-provider>
-    </authentication-manager>-->
 
 
 
